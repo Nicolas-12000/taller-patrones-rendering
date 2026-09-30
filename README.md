@@ -68,15 +68,6 @@ pnpm build
 pnpm start
 ```
 
-## Despliegue en la nube (Vercel)
-
-1. Sube el repositorio a GitHub.
-2. Entra en [vercel.com](https://vercel.com) → **Add New Project** → importa el repo.
-3. Framework: **Next.js** (detectado automáticamente).
-4. Deploy. Copia la URL y pégala arriba en este README.
-
-No se requieren variables de entorno: la API de USGS es pública.
-
 ## Guía rápida para demostrar (evaluación)
 
 | Patrón | Qué mostrar al docente |
@@ -113,8 +104,7 @@ lib/
 
 ## Autores
 
-- [Tu nombre]
-- [Compañero/a si aplica]
+- Nicolás Alejandro García Pasmiño
 
 ---
 
